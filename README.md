@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img style="margin-left: 50px;" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="mainImage">
+<img align="center" style="margin-left: 50px;" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="mainImage">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekshivam77" alt="abhishekshivam77" /></a> </p>
 
