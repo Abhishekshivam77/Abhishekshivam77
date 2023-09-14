@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **shivamkmr37@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M3UcghhRE2JjPQk9heP4_Q7Bv-vFeot3/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sM-19x_MgdjSG4PtG5Hkd38jL52w7M8d/view?usp=drive_link)
 
 - ⚡ Fun fact **In love with Tech ♥**
 
